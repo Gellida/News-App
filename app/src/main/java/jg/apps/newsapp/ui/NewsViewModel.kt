@@ -36,7 +36,7 @@ class NewsViewModel(
     var searhNewsResponse: NewsResponse? = null
 
     init {
-        getBreakingNews("us")
+        getBreakingNews("mx")
     }
 
     fun getBreakingNews(countryCode: String) = viewModelScope.launch {

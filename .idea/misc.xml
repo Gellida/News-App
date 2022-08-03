@@ -5,13 +5,14 @@
       <map>
         <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/drawable-anydpi/ic_all_news.xml" value="0.12" />
         <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.2115" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/search_view_bg.xml" value="0.1865" />
         <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/font/font.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_news.xml" value="0.17760416666666667" />
-        <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_article.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_article.xml" value="0.75" />
         <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_breaking_news.xml" value="0.19479166666666667" />
         <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_saved_news.xml" value="0.19479166666666667" />
-        <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_search_news.xml" value="0.19479166666666667" />
-        <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_article_preview.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_search_news.xml" value="0.4384508990318119" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_article_preview.xml" value="0.25" />
         <entry key="..\:/Users/gelli/AndroidStudioProjects/NewsApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.19583333333333333" />
       </map>
     </option>
